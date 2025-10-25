@@ -38,7 +38,13 @@ To segment customers into distinct groups using **K-Means clustering**, analyze 
 - **NumPy** – for numerical operations  
 - **Scikit-learn** – for clustering (`KMeans`, `silhouette_score`)  
 - **Matplotlib** – for visualization  
-- **Seaborn** – for enhanced, color-coded cluster plots  
+- **Seaborn** – for enhanced, color-coded cluster plots
+
+# Dataset Information
+
+**Dataset Source:** [Kaggle – Mall Customers Dataset](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
+- The dataset is **not uploaded** due to size constraints.  
+- You can download it directly from Kaggle and place it in your working directory.
 
 # How to Run
 
